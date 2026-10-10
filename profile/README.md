@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# JaiMoLabs
+# JaiMo Core
 
 </div>
 
@@ -11,8 +11,7 @@ As we advance the development of our final product, "self-bank," modules capable
 
 ### 🛠️ Core Focus
 
-*   **[ip-web](https://github.com/JaiMoDAO/ip-web)** - Official IP Identity and ENS Domain Verification.
-*   **[test-ApeWorX](https://github.com/JaiMoDAO/test-ApeWorX)** - A local testing environment for Solidity on-chain contract interactions.
+*   **[blog-web](https://github.com/jaimocore/blog-web)** - Official IP identity, Web3 domain verification, and crypto sponsorship.
 *   Every genuine need encountered could become the next open-source module.
 
 ---
